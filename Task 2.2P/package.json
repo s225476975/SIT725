@@ -1,0 +1,15 @@
+{
+  "name": "task-2.2p",
+  "version": "1.0.0",
+  "description": "this is the answer to task-2.2P",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
